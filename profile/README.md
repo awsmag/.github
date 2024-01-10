@@ -2,7 +2,7 @@
 
 ## Introduction
 
-AWSMAG is a collection of articles, code examples, deoloyment scripts and architecture writings. We help you learn how to build and deploy apps on AWS. You can visit the publication at [https://awsmag.com](https://awsmag.com). There are some free and member only articles on the blog. Some of the topics we write about our AWS Services, deployment of the services, serverless architectures and how to use various services using javascript / typescript.
+AWSMAG is a collection of articles, code examples, deployment scripts and architecture writings. We help you learn how to build and deploy apps on AWS. You can visit the publication at [https://awsmag.com](https://awsmag.com). There are some free and member only articles on the blog. Some of the topics we write about are AWS Services, deployment of the services, serverless architectures and how to use various services using javascript / typescript.
 
 ## Projects/Packages
 There are some of the templates available in the github to speed up your development process using javascript/typescript. AWSMAG also publishes terraform modules which are opinionated to speed up the deployment of the resources on the AWS Cloud. You can check all the packages at [Terraform Registry](https://registry.terraform.io/namespaces/awsmag)
