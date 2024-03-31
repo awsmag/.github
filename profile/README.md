@@ -7,8 +7,6 @@ AWSMAG is a collection of articles, code examples, deployment scripts and archit
 ## Projects/Packages
 There are some of the templates available in the github to speed up your development process using javascript/typescript. AWSMAG also publishes terraform modules which are opinionated to speed up the deployment of the resources on the AWS Cloud. You can check all the packages at [Terraform Registry](https://registry.terraform.io/namespaces/awsmag)
 
-## About Me
-Hi there, I am [Simranjeet Singh](https://github.com/singhs020). I have a passion for converting ideas into digital products. I like working on new and exciting projects. If you have a technology project that you need assistance with, I may be able to help. I have experience in developing applications for both B2C and B2B businesses and deploying them on the AWS cloud. I offer my services under my product studio and [AWSMAG](https://awsmag.com) is also a part of the same. You can read more about my company below.
 
 ## Company
 ![](https://s25.digital/static/logo-new-2-7d7b55a4753b504a3a5a7a075c9a47a7.png)
