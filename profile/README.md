@@ -1,4 +1,4 @@
-![https://awsmag.com]([https://awsmag.com/content/images/2022/08/AWSMAG.com-Banner-1.png](https://awsmag.com/wp-content/uploads/2024/04/AWSAG-Logo-1.svg))
+![https://awsmag.com](https://awsmag.com/wp-content/uploads/2024/04/AWSAG-Logo-1.svg)
 
 ## Introduction
 
